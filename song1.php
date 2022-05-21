@@ -55,71 +55,85 @@
                         
                         <?php
 
-                        echo "<h2 class='text-primary'>Kathang Isip</h2>";
-                        echo "<p class='lead '>Ben & Ben</p>";
+                        echo "<h2 class='text-primary'>Hindi Tayo Pwede</h2>";
+                        echo "<p class='lead '>The Juans</p>";
                 
-                        echo "<p> Diba nga ito ang iyong gusto? </p>";
-                        echo "<p> O,Ito'y lilisan na ako</p>";
-                        echo "<p> Mga alaala'y ibabaon</p>";
-                        echo "<p> Kalakip ang tamis ng kahapon</p>";
+                        echo "<p>   F#m           A     </p>";
+                        echo "<p> Pilit nating iniwasan </p>";
+                        echo "<p>    E             B  </p>";
+                        echo "<p> Ganitong mga tanungan</p>";
+                        echo "<p>   D             A  </p>";
+                        echo "<p> At kahit di sigurado</p>";
+                        echo "<p>  B                    </p>";
+                        echo "<p> Tinuloy natin ang ating ugnayan</p>";
+                        echo "<p>   F#m                       A </p>";
+                        echo "<p> Ngayo'y naubos na'ng kwentuhan</p>";
+                        echo "<p>   E                 B  </p>";
+                        echo "<p> Nagsimula nang magsisihan </p>";
+                        echo "<p>   D                 A     </p>";
+                        echo "<p> Lahat ay parang lumabo </p>";
+                        echo "<p>    B             </p>";
+                        echo "<p> Di alam kung sa'n tutungo </p>";
                         echo "<br/>";
 
-                        echo "<p> Mga gabing di namamalayang</p>";
-                        echo "<p> Oras ay lumilipad</p>";
-                        echo "<p> Mga sandaling lumalayag kung</p>";
-                        echo "<p> San man tayo mapadpad</p>";
-                        echo "<p> Bawat Kilig na nadarama</p>";
-                        echo "<p> Sa tuwing hawak ang 'yong kamay</p>";
-                        echo "<p> Ito'y maling akala</p>";
-                        echo "<p> Isang malaking sablay</p>";
+                        echo "<p>   D             </p>";
+                        echo "<p> Sabi ko na nga ba </p>";
+                        echo "<p>   A                 </p>";
+                        echo "<p> Dapat no'ng una pa lamang </p>";
+                        echo "<p>    Bm                </p>";
+                        echo "<p> Di na umasa </p>";
+                        echo "<p>   D           Dm  D ";
+                        echo "<p> Di naniwala </p>";
                         echo "<br/>";
 
-                        echo "<p> Pasensya ka na</p>";
-                        echo "<p> Sa mga kathang isip kong ito</p>";
-                        echo "<p> Wari'y dala lang ng pagmamahal sa iyo</p>";
-                        echo "<p> Ako'y gigising na</p>";
-                        echo "<p> Sa panaginip kong ito</p>";
-                        echo "<p> At sa wakas ay kusang lalayo sa iyo (lalayo sa)</p>";
+                        echo "<p>       A           C#m     </p>";
+                        echo "<p>   Hindi tayo pwede </p>";
+                        echo "<p>   F#m             D  </p>";
+                        echo "<p> Pinagtagpo pero ' di tinadhana    </p>";
+                        echo "<p>               A               C#m     </p>";
+                        echo "<p> Hindi ns posible </p>";
+                        echo "<p>    F#m        </p>";
+                        echo "<p>   Ang mga puso'y huwag nating pahirapan";
+                        echo "<p>  Bm   </p>";
+                        echo "<p>   Suko na sa laban</p>";
+                        echo "<p>   D           </p>";
+                        echo "<p> Hindi tayo pwede </p>";
                         echo "<br/>";
 
-                        echo "<p> Kung gaano kabilis nagsimula</p>";
-                        echo "<p> Gano'n katulin nawala</p>";
-                        echo "<p> Maaari ba tayong bumalik sa umpisa</p>";
-                        echo "<p> Upang di na umasa ang pusong nagiisa</p>";
+                        echo "<p>       F#m             A  </p>";
+                        echo "<p>    Kay bigat na ng damdamin      </p>";
+                        echo "<p>   E          B   </p>";
+                        echo "<p>    Bakit di pa natin aminin  </p>";
+                        echo "<p>    D              A       </p>";
+                        echo "<p>    Dahil sa una pa lamang </p>";
+                        echo "<p>       B       </p>";
+                        echo "<p>    Alam nating wala tayong laban </p>";
                         echo "<br/>";
 
-                        echo "<p> Pasensiya ka na</p>";
-                        echo "<p> Sa mga kathang isip kong ito</p>";
-                        echo "<p> Wari'y dala lang ng pagmamahal sa iyo</p>";
-                        echo "<p> Ako'y gigising na</p>";
-                        echo "<p> Sa panaginip kong ito</p>";
-                        echo "<p> At sa wakas ay kusang lalayo sa iyo (lalayo sa)</p>";
+                        echo "<p>   D             </p>";
+                        echo "<p> Sabi ko na nga ba </p>";
+                        echo "<p>   A                 </p>";
+                        echo "<p> Dapat no'ng una pa lamang </p>";
+                        echo "<p>    Bm                </p>";
+                        echo "<p> Di na umasa </p>";
+                        echo "<p>   D           Dm  D ";
+                        echo "<p> Di naniwala </p>";
                         echo "<br/>";
 
-                        echo "<p> Sumabay sa agos na isinulat ng tadhana</p>";
-                        echo "<p> Minsan siya'y para sa iyo</p>";
-                        echo "<p> Pero minsan siya'y paasa</p>";
-                        echo "<p> Tatakbo papalayo't</p>";
-                        echo "<p> Kakalimutan ang lahat</p>";
+                        echo "<p>       A           C#m     </p>";
+                        echo "<p>   Hindi tayo pwede </p>";
+                        echo "<p>   F#m             D  </p>";
+                        echo "<p> Pinagtagpo pero ' di tinadhana    </p>";
+                        echo "<p>               A               C#m     </p>";
+                        echo "<p> Hindi ns posible </p>";
+                        echo "<p>    F#m        </p>";
+                        echo "<p>   Ang mga puso'y huwag nating pahirapan";
+                        echo "<p>  Bm   </p>";
+                        echo "<p>   Suko na sa laban</p>";
+                        echo "<p>   D           </p>";
+                        echo "<p> Hindi tayo pwede </p>";
                         echo "<br/>";
-
-                        echo "<p> Pero kahit saan man lumingon</p>";
-                        echo "<p> Nasusulyapan ang kahapon</p>";
-                        echo "<p> At sa aking bawat paghinga</p>";
-                        echo "<p> Ikaw ang nasa isip ko, sinta</p>";
-                        echo "<br/>";
-
-                        echo "<p> Kaya pasensya ka na</p>";
-                        echo "<p> Sa mga kathang isip kong ito</p>";
-                        echo "<p> Wari'y dala lang ng pagmamahal sa iyo</p>";
-                        echo "<p> Ako'y gigising na</p>";
-                        echo "<p> Mula sa panaginip kong ito</p>";
-                        echo "<p> At sa wakas ay kusang lalayo sa iyo (lalayo sa)</p>";
-                        echo "<br/>";
-
-                        echo "<p> Diba nga ito ang iyong gusto?</p>";
-                        echo "<p> O,Ito'y lilisan na ako</p>";
-
+                      
                         ?>
 
 
